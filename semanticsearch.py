@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 import sys
 import re
 
-MONGO_URI = "mongodb+srv://youranotherdataguy:qROdoddELnuhCNcG@sematic.wv0b1.mongodb.net/"
+MONGO_URI = "mongodb+srv://user:pass@sematic.wv0b1.mongodb.net/"
 
 # Load the sentence transformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
