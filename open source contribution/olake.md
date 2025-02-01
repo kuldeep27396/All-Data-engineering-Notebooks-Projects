@@ -111,7 +111,3 @@ db.users.deleteOne({ "_id": "123" })
 }
 ```
 
-Would you like me to:
-1. Explain any specific part in more detail?
-2. Show more examples of how this works?
-3. Explain any Go-specific concepts further?
